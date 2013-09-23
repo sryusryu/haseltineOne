@@ -1,0 +1,12 @@
+git clone URL
+
+git add YOURFILE
+
+git add -all
+
+git commit -m "your msg"
+
+git status
+
+git push origin master
+
